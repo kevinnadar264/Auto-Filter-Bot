@@ -36,7 +36,7 @@
 * Add bot to group with admin rights.
 * Deploy the bot.
 * Once deployed and bot is started, send a message to channel (must do step)
-* Bot will work now :)
+* Bot will work now :) @T2links
 
 
 ## You can check the video tutorial on how to deploy
